@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #f9f7e8;
+  background-color: #c4a8aa;
   position: relative;
 }
 
@@ -39,7 +39,7 @@ body::before {
 }
 
 .browser-bar {
-  background-color: #ff6b6b;
+  background-color: #b60a0af1;
   border: 2px solid black;
   border-bottom: none;
   border-radius: 8px 8px 0 0;
@@ -63,28 +63,28 @@ body::before {
 }
 
 .yellow {
-  background-color: #ffd166;
+  background-color: #2dbd1a;
 }
 
 .green {
-  background-color: #4ecdc4;
+  background-color: #e0444c;
 }
 
 .red {
-  background-color: #ff6b6b;
+  background-color: #f31818;
 }
 
 .address-bar {
   flex: 1;
   margin: 0 16px;
-  background-color: white;
+  background-color: rgb(226, 204, 204);
   border: 2px solid black;
   border-radius: 4px;
   padding: 4px 8px;
 }
 
 .address-bar span {
-  color: #666;
+  color: #464549;
   font-size: 14px;
 }
 
@@ -96,7 +96,7 @@ body::before {
 .window-btn {
   width: 24px;
   height: 24px;
-  background-color: white;
+  background-color: rgb(172, 156, 156);
   border: 1px solid black;
   border-radius: 4px;
   display: flex;
@@ -107,7 +107,7 @@ body::before {
 }
 
 .nav-menu {
-  background-color: #4ecdc4;
+  background-color: #e68585;
   padding: 8px;
   border: 2px solid black;
   border-top: none;
@@ -138,7 +138,7 @@ body::before {
 }
 
 .nav-menu li.active a {
-  background-color: white;
+  background-color: rgb(218, 193, 193);
   border: 2px solid black;
   box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 1);
 }
@@ -202,15 +202,15 @@ body::before {
 }
 
 .teal {
-  background-color: #4ecdc4;
+  background-color: #db8484;
 }
 
 .yellow {
-  background-color: #ffd166;
+  background-color: #d88282;
 }
 
 .pink-bg {
-  background-color: #ff6b6b;
+  background-color: #df8893;
 }
 
 .card-header {
@@ -229,7 +229,7 @@ body::before {
 .card-content {
   height: calc(100% - 40px);
   padding: 16px;
-  background-color: white;
+  background-color: rgb(236, 212, 212);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -266,7 +266,7 @@ body::before {
 .bullet {
   width: 12px;
   height: 12px;
-  background-color: #ffd166;
+  background-color: #ff666e;
   border: 1px solid black;
 }
 
@@ -281,7 +281,7 @@ body::before {
   border-radius: 8px;
   box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 1);
   overflow: hidden;
-  background-color: white;
+  background-color: rgb(240, 198, 198);
 }
 
 .window-content {
@@ -307,11 +307,11 @@ body::before {
 }
 
 .yellow-bg {
-  background-color: #ffd166;
+  background-color: #d64149;
 }
 
 .teal-bg {
-  background-color: #4ecdc4;
+  background-color: #e98c99;
 }
 
 .projects-grid {
@@ -323,7 +323,7 @@ body::before {
 .project-card {
   border: 2px solid black;
   padding: 12px;
-  background-color: #f9f7e8;
+  background-color: #f7e9e9;
 }
 
 .project-image {
@@ -336,7 +336,7 @@ body::before {
 .contact-info {
   border: 2px solid black;
   padding: 16px;
-  background-color: #f9f7e8;
+  background-color: #f5aeae;
 }
 
 .contact-item {
